@@ -1,0 +1,27 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedCK/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedCK/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/MohamedCK/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
