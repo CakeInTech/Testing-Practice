@@ -21,9 +21,7 @@ To get a local copy up and running follow these simple example steps.
 ```
   node js
   npm
-
-``
-
+```
 ### Install
 
 Install all project dependencies by running the command below
@@ -31,7 +29,6 @@ Install all project dependencies by running the command below
 ``` 
   $ npm install
 ```
-
 
 👤 **Mohamed Abdulhakim**
 
